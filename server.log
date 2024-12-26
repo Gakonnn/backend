@@ -1,0 +1,1316 @@
+{"level":"info","msg":"Starting application...","time":"2024-12-22T20:33:39+05:00"}
+{"fields.time":"2024-12-22T20:33:39.473419+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-22T20:33:39+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-22T20:33:39+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-22T20:33:39+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-22T20:33:39+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-22T20:33:39+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-22T20:33:39+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-22T20:33:39+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-22T20:33:39+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-22T20:33:39+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-22T20:33:39+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-22T20:37:28+05:00"}
+{"fields.time":"2024-12-22T20:37:28.201502+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-22T20:37:28+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-22T20:37:28+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-22T20:37:28+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-22T20:37:28+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-22T20:37:28+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-22T20:37:28+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-22T20:37:28+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-22T20:37:28+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-22T20:37:28+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-22T20:37:28+05:00"}
+{"book_id":3,"level":"info","msg":"Processing update book request","time":"2024-12-22T20:37:51+05:00"}
+{"author_name":"Max Kennedy11","book_id":3,"book_name":"Before you1","level":"info","msg":"Book updated successfully","time":"2024-12-22T20:37:51+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-22T20:41:55+05:00"}
+{"fields.time":"2024-12-22T20:41:55.253076+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-22T20:41:55+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-22T20:41:55+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-22T20:41:55+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-22T20:41:55+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-22T20:41:55+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-22T20:41:55+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-22T20:41:55+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-22T20:41:55+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-22T20:41:55+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-22T20:41:55+05:00"}
+{"book_id":"5","level":"info","msg":"Processing delete book request","time":"2024-12-22T20:42:14+05:00"}
+{"book_id":"5","level":"info","msg":"Book deleted successfully","time":"2024-12-22T20:42:14+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-22T21:09:26+05:00"}
+{"fields.time":"2024-12-22T21:09:26.848189+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-22T21:09:26+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-22T21:09:26+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-22T21:09:26+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-22T21:09:26+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-22T21:09:26+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-22T21:09:26+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-22T21:09:26+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-22T21:09:26+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-22T21:09:26+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-22T21:09:26+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-22T21:15:40+05:00"}
+{"fields.time":"2024-12-22T21:15:40.027267+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-22T21:15:40+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-22T21:15:40+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-22T21:15:40+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-22T21:15:40+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-22T21:15:40+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-22T21:15:40+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-22T21:15:40+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-22T21:15:40+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-22T21:15:40+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-22T21:15:40+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-22T21:20:32+05:00"}
+{"fields.time":"2024-12-22T21:20:32.490778+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-22T21:20:32+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-22T21:20:32+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-22T21:20:32+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-22T21:20:32+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-22T21:20:32+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-22T21:20:32+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-22T21:20:32+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-22T21:20:32+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-22T21:20:32+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-22T21:20:32+05:00"}
+{"book_id":3,"level":"info","msg":"Processing update book request","time":"2024-12-22T21:24:45+05:00"}
+{"author_name":"Max Kennedy11","book_id":3,"book_name":"Before you","level":"info","msg":"Book updated successfully","time":"2024-12-22T21:24:45+05:00"}
+{"book_id":"6","level":"info","msg":"Processing delete book request","time":"2024-12-22T21:24:52+05:00"}
+{"book_id":"6","level":"info","msg":"Book deleted successfully","time":"2024-12-22T21:24:52+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-22T21:35:51+05:00"}
+{"fields.time":"2024-12-22T21:35:51.646934+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-22T21:35:51+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-22T21:35:51+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-22T21:35:51+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-22T21:35:51+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-22T21:35:51+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-22T21:35:51+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-22T21:35:51+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-22T21:35:51+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-22T21:35:51+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-22T21:35:51+05:00"}
+{"author_name":"Max Test","book_id":0,"book_name":"TestBook","level":"info","msg":"Book updated successfully","time":"2024-12-22T21:36:47+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-22T22:19:19+05:00"}
+{"fields.time":"2024-12-22T22:19:19.566753+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-22T22:19:19+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-22T22:19:19+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-22T22:19:19+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-22T22:19:19+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-22T22:19:19+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-22T22:19:19+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-22T22:19:19+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-22T22:19:19+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-22T22:19:19+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-22T22:19:19+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-22T22:53:48+05:00"}
+{"fields.time":"2024-12-22T22:53:48.965187+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-22T22:53:48+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-22T22:53:48+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-22T22:53:48+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-22T22:53:48+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-22T22:53:48+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-22T22:53:48+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-22T22:53:48+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-22T22:53:48+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-22T22:53:48+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-22T22:53:48+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50475","time":"2024-12-22T22:53:57+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50475","time":"2024-12-22T22:53:58+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50483","time":"2024-12-22T22:56:55+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50483","time":"2024-12-22T22:57:03+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-22T23:08:17+05:00"}
+{"fields.time":"2024-12-22T23:08:17.74195+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-22T23:08:17+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-22T23:08:17+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-22T23:08:17+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-22T23:08:17+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-22T23:08:17+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-22T23:08:17+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-22T23:08:17+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-22T23:08:17+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-22T23:08:17+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-22T23:08:17+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50547","time":"2024-12-22T23:08:20+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50545","time":"2024-12-22T23:08:21+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50545","time":"2024-12-22T23:08:21+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50545","time":"2024-12-22T23:08:21+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50545","time":"2024-12-22T23:08:22+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50545","time":"2024-12-22T23:08:23+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-22T23:11:30+05:00"}
+{"fields.time":"2024-12-22T23:11:30.694916+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-22T23:11:30+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-22T23:11:30+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-22T23:11:30+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-22T23:11:30+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-22T23:11:30+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-22T23:11:30+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-22T23:11:30+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-22T23:11:30+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-22T23:11:30+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-22T23:11:30+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-22T23:13:35+05:00"}
+{"fields.time":"2024-12-22T23:13:35.690845+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-22T23:13:35+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-22T23:13:35+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-22T23:13:35+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-22T23:13:35+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-22T23:13:35+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-22T23:13:35+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-22T23:13:35+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-22T23:13:35+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-22T23:13:35+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-22T23:13:35+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50606","time":"2024-12-22T23:13:42+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-22T23:19:01+05:00"}
+{"fields.time":"2024-12-22T23:19:01.427098+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-22T23:19:01+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-22T23:19:01+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-22T23:19:01+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-22T23:19:01+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-22T23:19:01+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-22T23:19:01+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-22T23:19:01+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-22T23:19:01+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-22T23:19:01+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-22T23:19:01+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-22T23:19:42+05:00"}
+{"fields.time":"2024-12-22T23:19:42.609092+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-22T23:19:42+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-22T23:19:42+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-22T23:19:42+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-22T23:19:42+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-22T23:19:42+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-22T23:19:42+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-22T23:19:42+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-22T23:19:42+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-22T23:19:42+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-22T23:19:42+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-22T23:21:17+05:00"}
+{"fields.time":"2024-12-22T23:21:17.716536+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-22T23:21:17+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-22T23:21:17+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-22T23:21:17+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-22T23:21:17+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-22T23:21:17+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-22T23:21:17+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-22T23:21:17+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-22T23:21:17+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-22T23:21:17+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-22T23:21:17+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-22T23:22:29+05:00"}
+{"fields.time":"2024-12-22T23:22:29.829636+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-22T23:22:29+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-22T23:22:29+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-22T23:22:29+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-22T23:22:29+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-22T23:22:29+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-22T23:22:29+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-22T23:22:29+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-22T23:22:29+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-22T23:22:29+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-22T23:22:29+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-22T23:25:24+05:00"}
+{"fields.time":"2024-12-22T23:25:24.807779+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-22T23:25:24+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-22T23:25:24+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-22T23:25:24+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-22T23:25:24+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-22T23:25:24+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-22T23:25:24+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-22T23:25:24+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-22T23:25:24+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-22T23:25:24+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-22T23:25:24+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-22T23:35:53+05:00"}
+{"fields.time":"2024-12-22T23:35:53.202776+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-22T23:35:53+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-22T23:35:53+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-22T23:35:53+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-22T23:35:53+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-22T23:35:53+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-22T23:35:53+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-22T23:35:53+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-22T23:35:53+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-22T23:35:53+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-22T23:35:53+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-22T23:43:57+05:00"}
+{"fields.time":"2024-12-22T23:43:57.996127+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-22T23:43:57+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-22T23:43:58+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-22T23:43:58+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-22T23:43:58+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-22T23:43:58+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-22T23:43:58+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-22T23:43:58+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-22T23:43:58+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-22T23:43:58+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-22T23:43:58+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50838","time":"2024-12-22T23:44:07+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50838","time":"2024-12-22T23:44:09+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50838","time":"2024-12-22T23:44:10+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50838","time":"2024-12-22T23:44:11+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50838","time":"2024-12-22T23:44:13+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-22T23:44:40+05:00"}
+{"fields.time":"2024-12-22T23:44:40.813463+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-22T23:44:40+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-22T23:44:40+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-22T23:44:40+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-22T23:44:40+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-22T23:44:40+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-22T23:44:40+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-22T23:44:40+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-22T23:44:40+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-22T23:44:40+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-22T23:44:40+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-22T23:45:30+05:00"}
+{"fields.time":"2024-12-22T23:45:30.816958+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-22T23:45:30+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-22T23:45:30+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-22T23:45:30+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-22T23:45:30+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-22T23:45:30+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-22T23:45:30+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-22T23:45:30+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-22T23:45:30+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-22T23:45:30+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-22T23:45:30+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50855","time":"2024-12-22T23:45:31+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50855","time":"2024-12-22T23:45:32+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50855","time":"2024-12-22T23:45:34+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50855","time":"2024-12-22T23:45:35+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50855","time":"2024-12-22T23:45:36+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-22T23:46:33+05:00"}
+{"fields.time":"2024-12-22T23:46:33.994392+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-22T23:46:33+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-22T23:46:34+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-22T23:46:34+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-22T23:46:34+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-22T23:46:34+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-22T23:46:34+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-22T23:46:34+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-22T23:46:34+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-22T23:46:34+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-22T23:46:34+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50863","time":"2024-12-22T23:46:37+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50863","time":"2024-12-22T23:46:38+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50863","time":"2024-12-22T23:46:39+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50863","time":"2024-12-22T23:46:39+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50863","time":"2024-12-22T23:46:41+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50863","time":"2024-12-22T23:46:41+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50863","time":"2024-12-22T23:46:42+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50863","time":"2024-12-22T23:46:42+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50863","time":"2024-12-22T23:46:44+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50863","time":"2024-12-22T23:46:50+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50874","time":"2024-12-22T23:47:53+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50872","time":"2024-12-22T23:48:02+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-22T23:48:11+05:00"}
+{"fields.time":"2024-12-22T23:48:11.775906+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-22T23:48:11+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-22T23:48:11+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-22T23:48:11+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-22T23:48:11+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-22T23:48:11+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-22T23:48:11+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-22T23:48:11+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-22T23:48:11+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-22T23:48:11+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-22T23:48:11+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-22T23:49:34+05:00"}
+{"fields.time":"2024-12-22T23:49:34.828677+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-22T23:49:34+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-22T23:49:34+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-22T23:49:34+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-22T23:49:34+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-22T23:49:34+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-22T23:49:34+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-22T23:49:34+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-22T23:49:34+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-22T23:49:34+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-22T23:49:34+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-22T23:50:24+05:00"}
+{"fields.time":"2024-12-22T23:50:24.727861+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-22T23:50:24+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-22T23:50:24+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-22T23:50:24+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-22T23:50:24+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-22T23:50:24+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-22T23:50:24+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-22T23:50:24+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-22T23:50:24+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-22T23:50:24+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-22T23:50:24+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-22T23:52:06+05:00"}
+{"fields.time":"2024-12-22T23:52:06.57066+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-22T23:52:06+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-22T23:52:06+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-22T23:52:06+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-22T23:52:06+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-22T23:52:06+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-22T23:52:06+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-22T23:52:06+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-22T23:52:06+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-22T23:52:06+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-22T23:52:06+05:00"}
+{"book_id":"3","level":"info","msg":"Processing delete book request","time":"2024-12-22T23:52:20+05:00"}
+{"book_id":"3","level":"info","msg":"Book deleted successfully","time":"2024-12-22T23:52:20+05:00"}
+{"book_id":4,"level":"info","msg":"Processing update book request","time":"2024-12-22T23:52:23+05:00"}
+{"author_name":"AA nuns","book_id":4,"book_name":"Good book2","level":"info","msg":"Book updated successfully","time":"2024-12-22T23:52:23+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50907","time":"2024-12-22T23:52:37+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-22T23:59:14+05:00"}
+{"fields.time":"2024-12-22T23:59:14.717967+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-22T23:59:14+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-22T23:59:14+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-22T23:59:14+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-22T23:59:14+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-22T23:59:14+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-22T23:59:14+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-22T23:59:14+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-22T23:59:14+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-22T23:59:14+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-22T23:59:14+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T00:00:28+05:00"}
+{"fields.time":"2024-12-23T00:00:28.251487+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T00:00:28+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T00:00:28+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T00:00:28+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T00:00:28+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T00:00:28+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T00:00:28+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T00:00:28+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T00:00:28+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T00:00:28+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T00:00:28+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50974","time":"2024-12-23T00:01:12+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50974","time":"2024-12-23T00:01:15+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:50981","time":"2024-12-23T00:01:25+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T00:03:09+05:00"}
+{"fields.time":"2024-12-23T00:03:09.317744+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T00:03:09+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T00:03:09+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T00:03:09+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T00:03:09+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T00:03:09+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T00:03:09+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T00:03:09+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T00:03:09+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T00:03:09+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T00:03:09+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T00:03:55+05:00"}
+{"fields.time":"2024-12-23T00:03:55.114748+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T00:03:55+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T00:03:55+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T00:03:55+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T00:03:55+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T00:03:55+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T00:03:55+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T00:03:55+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T00:03:55+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T00:03:55+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T00:03:55+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T00:05:11+05:00"}
+{"fields.time":"2024-12-23T00:05:11.817071+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T00:05:11+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T00:05:11+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T00:05:11+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T00:05:11+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T00:05:11+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T00:05:11+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T00:05:11+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T00:05:11+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T00:05:11+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T00:05:11+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T00:07:52+05:00"}
+{"fields.time":"2024-12-23T00:07:52.643791+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T00:07:52+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T00:07:52+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T00:07:52+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T00:07:52+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T00:07:52+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T00:07:52+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T00:07:52+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T00:07:52+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T00:07:52+05:00"}
+{"address":"127.0.0.1:8000","level":"info","msg":"Server starting...","time":"2024-12-23T00:07:52+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T00:08:07+05:00"}
+{"fields.time":"2024-12-23T00:08:07.520125+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T00:08:07+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T00:08:07+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T00:08:07+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T00:08:07+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T00:08:07+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T00:08:07+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T00:08:07+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T00:08:07+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T00:08:07+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T00:08:07+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T00:14:37+05:00"}
+{"fields.time":"2024-12-23T00:14:37.281744+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T00:14:37+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T00:14:37+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T00:14:37+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T00:14:37+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T00:14:37+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T00:14:37+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T00:14:37+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T00:14:37+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T00:14:37+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T00:14:37+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T00:15:01+05:00"}
+{"fields.time":"2024-12-23T00:15:01.373348+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T00:15:01+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T00:15:01+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T00:15:01+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T00:15:01+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T00:15:01+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T00:15:01+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T00:15:01+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T00:15:01+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T00:15:01+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T00:15:01+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T00:19:13+05:00"}
+{"fields.time":"2024-12-23T00:19:13.456344+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T00:19:13+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T00:19:13+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T00:19:13+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T00:19:13+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T00:19:13+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T00:19:13+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T00:19:13+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T00:19:13+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T00:19:13+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T00:19:13+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T00:21:24+05:00"}
+{"fields.time":"2024-12-23T00:21:24.272422+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T00:21:24+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T00:21:24+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T00:21:24+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T00:21:24+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T00:21:24+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T00:21:24+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T00:21:24+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T00:21:24+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T00:21:24+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T00:21:24+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T00:25:45+05:00"}
+{"fields.time":"2024-12-23T00:25:45.984718+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T00:25:45+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T00:25:46+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T00:25:46+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T00:25:46+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T00:25:46+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T00:25:46+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T00:25:46+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T00:25:46+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T00:25:46+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T00:25:46+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T00:26:47+05:00"}
+{"fields.time":"2024-12-23T00:26:47.998187+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T00:26:47+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T00:26:48+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T00:26:48+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T00:26:48+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T00:26:48+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T00:26:48+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T00:26:48+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T00:26:48+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T00:26:48+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T00:26:48+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T00:27:09+05:00"}
+{"fields.time":"2024-12-23T00:27:09.854223+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T00:27:09+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T00:27:09+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T00:27:09+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T00:27:09+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T00:27:09+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T00:27:09+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T00:27:09+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T00:27:09+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T00:27:09+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T00:27:09+05:00"}
+{"book_id":4,"level":"info","msg":"Processing update book request","time":"2024-12-23T00:28:21+05:00"}
+{"author_name":"AA nuns","book_id":4,"book_name":"Good book","level":"info","msg":"Book updated successfully","time":"2024-12-23T00:28:21+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T00:38:01+05:00"}
+{"fields.time":"2024-12-23T00:38:01.891494+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T00:38:01+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T00:38:01+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T00:38:01+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T00:38:01+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T00:38:01+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T00:38:01+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T00:38:01+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T00:38:01+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T00:38:01+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T00:38:01+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T00:39:44+05:00"}
+{"fields.time":"2024-12-23T00:39:44.917793+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T00:39:44+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T00:39:44+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T00:39:44+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T00:39:44+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T00:39:44+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T00:39:44+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T00:39:44+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T00:39:44+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T00:39:44+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T00:39:44+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T00:40:37+05:00"}
+{"fields.time":"2024-12-23T00:40:37.664223+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T00:40:37+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T00:40:37+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T00:40:37+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T00:40:37+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T00:40:37+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T00:40:37+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T00:40:37+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T00:40:37+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T00:40:37+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T00:40:37+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T00:42:19+05:00"}
+{"fields.time":"2024-12-23T00:42:19.780689+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T00:42:19+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T00:42:19+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T00:42:19+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T00:42:19+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T00:42:19+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T00:42:19+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T00:42:19+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T00:42:19+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T00:42:19+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T00:42:19+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T00:42:42+05:00"}
+{"fields.time":"2024-12-23T00:42:42.797376+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T00:42:42+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T00:42:42+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T00:42:42+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T00:42:42+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T00:42:42+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T00:42:42+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T00:42:42+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T00:42:42+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T00:42:42+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T00:42:42+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T00:44:00+05:00"}
+{"fields.time":"2024-12-23T00:44:00.197562+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T00:44:00+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T00:44:00+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T00:44:00+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T00:44:00+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T00:44:00+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T00:44:00+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T00:44:00+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T00:44:00+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T00:44:00+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T00:44:00+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T00:47:53+05:00"}
+{"fields.time":"2024-12-23T00:47:53.955848+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T00:47:53+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T00:47:53+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T00:47:53+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T00:47:53+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T00:47:53+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T00:47:53+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T00:47:53+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T00:47:53+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T00:47:53+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T00:47:53+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T00:49:06+05:00"}
+{"fields.time":"2024-12-23T00:49:06.253761+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T00:49:06+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T00:49:06+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T00:49:06+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T00:49:06+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T00:49:06+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T00:49:06+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T00:49:06+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T00:49:06+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T00:49:06+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T00:49:06+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T00:51:19+05:00"}
+{"fields.time":"2024-12-23T00:51:19.868792+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T00:51:19+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T00:51:19+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T00:51:19+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T00:51:19+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T00:51:19+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T00:51:19+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T00:51:19+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T00:51:19+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T00:51:19+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T00:51:19+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T00:51:53+05:00"}
+{"fields.time":"2024-12-23T00:51:53.147606+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T00:51:53+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T00:51:53+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T00:51:53+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T00:51:53+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T00:51:53+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T00:51:53+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T00:51:53+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T00:51:53+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T00:51:53+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T00:51:53+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T00:53:56+05:00"}
+{"fields.time":"2024-12-23T00:53:56.183195+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T00:53:56+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T00:53:56+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T00:53:56+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T00:53:56+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T00:53:56+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T00:53:56+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T00:53:56+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T00:53:56+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T00:53:56+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T00:53:56+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T00:54:47+05:00"}
+{"fields.time":"2024-12-23T00:54:47.385129+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T00:54:47+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T00:54:47+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T00:54:47+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T00:54:47+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T00:54:47+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T00:54:47+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T00:54:47+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T00:54:47+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T00:54:47+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T00:54:47+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T00:58:35+05:00"}
+{"fields.time":"2024-12-23T00:58:35.204056+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T00:58:35+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T00:58:35+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T00:58:35+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T00:58:35+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T00:58:35+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T00:58:35+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T00:58:35+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T00:58:35+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T00:58:35+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T00:58:35+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T01:00:47+05:00"}
+{"fields.time":"2024-12-23T01:00:47.091877+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T01:00:47+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T01:00:47+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T01:00:47+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T01:00:47+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T01:00:47+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T01:00:47+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T01:00:47+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T01:00:47+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T01:00:47+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T01:00:47+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T01:04:31+05:00"}
+{"fields.time":"2024-12-23T01:04:31.426053+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T01:04:31+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T01:04:31+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T01:04:31+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T01:04:31+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T01:04:31+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T01:04:31+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T01:04:31+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T01:04:31+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T01:04:31+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T01:04:31+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T01:05:22+05:00"}
+{"fields.time":"2024-12-23T01:05:22.486081+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T01:05:22+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T01:05:22+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T01:05:22+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T01:05:22+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T01:05:22+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T01:05:22+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T01:05:22+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T01:05:22+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T01:05:22+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T01:05:22+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T01:12:43+05:00"}
+{"fields.time":"2024-12-23T01:12:43.440229+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T01:12:43+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T01:12:43+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T01:12:43+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T01:12:43+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T01:12:43+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T01:12:43+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T01:12:43+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T01:12:43+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T01:12:43+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T01:12:43+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T01:13:16+05:00"}
+{"fields.time":"2024-12-23T01:13:16.759531+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T01:13:16+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T01:13:16+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T01:13:16+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T01:13:16+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T01:13:16+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T01:13:16+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T01:13:16+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T01:13:16+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T01:13:16+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T01:13:16+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T01:31:39+05:00"}
+{"fields.time":"2024-12-23T01:31:39.052294+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T01:31:39+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T01:31:39+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T01:31:39+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T01:31:39+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T01:31:39+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T01:31:39+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T01:31:39+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T01:31:39+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T01:31:39+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T01:31:39+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T01:32:16+05:00"}
+{"fields.time":"2024-12-23T01:32:16.52201+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T01:32:16+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T01:32:16+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T01:32:16+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T01:32:16+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T01:32:16+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T01:32:16+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T01:32:16+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T01:32:16+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T01:32:16+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T01:32:16+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T01:33:01+05:00"}
+{"fields.time":"2024-12-23T01:33:01.153321+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T01:33:01+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T01:33:01+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T01:33:01+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T01:33:01+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T01:33:01+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T01:33:01+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T01:33:01+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T01:33:01+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T01:33:01+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T01:33:01+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T01:35:14+05:00"}
+{"fields.time":"2024-12-23T01:35:14.46818+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T01:35:14+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T01:35:14+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T01:35:14+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T01:35:14+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T01:35:14+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T01:35:14+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T01:35:14+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T01:35:14+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T01:35:14+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T01:35:14+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T01:37:51+05:00"}
+{"fields.time":"2024-12-23T01:37:51.473806+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T01:37:51+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T01:37:51+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T01:37:51+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T01:37:51+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T01:37:51+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T01:37:51+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T01:37:51+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T01:37:51+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T01:37:51+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T01:37:51+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T01:38:17+05:00"}
+{"fields.time":"2024-12-23T01:38:17.911603+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T01:38:17+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T01:38:17+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T01:38:17+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T01:38:17+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T01:38:17+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T01:38:17+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T01:38:17+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T01:38:17+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T01:38:17+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T01:38:17+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T01:39:58+05:00"}
+{"fields.time":"2024-12-23T01:39:58.469411+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T01:39:58+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T01:39:58+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T01:39:58+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T01:39:58+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T01:39:58+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T01:39:58+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T01:39:58+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T01:39:58+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T01:39:58+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T01:39:58+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T01:42:34+05:00"}
+{"fields.time":"2024-12-23T01:42:34.103297+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T01:42:34+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T01:42:34+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T01:42:34+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T01:42:34+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T01:42:34+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T01:42:34+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T01:42:34+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T01:42:34+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T01:42:34+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T01:42:34+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T01:45:14+05:00"}
+{"fields.time":"2024-12-23T01:45:14.983764+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T01:45:14+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T01:45:15+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T01:45:15+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T01:45:15+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T01:45:15+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T01:45:15+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T01:45:15+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T01:45:15+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T01:45:15+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T01:45:15+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T02:06:35+05:00"}
+{"fields.time":"2024-12-23T02:06:35.787462+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T02:06:35+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T02:06:35+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T02:06:35+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T02:06:35+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T02:06:35+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T02:06:35+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T02:06:35+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T02:06:35+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T02:06:35+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T02:06:35+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T02:13:46+05:00"}
+{"fields.time":"2024-12-23T02:13:46.481821+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T02:13:46+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T02:13:46+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T02:13:46+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T02:13:46+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T02:13:46+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T02:13:46+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T02:13:46+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T02:13:46+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T02:13:46+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T02:13:46+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T02:16:31+05:00"}
+{"fields.time":"2024-12-23T02:16:31.264953+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T02:16:31+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T02:16:31+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T02:16:31+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T02:16:31+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T02:16:31+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T02:16:31+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T02:16:31+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T02:16:31+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T02:16:31+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T02:16:31+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T02:17:51+05:00"}
+{"fields.time":"2024-12-23T02:17:51.021036+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T02:17:51+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T02:17:51+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T02:17:51+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T02:17:51+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T02:17:51+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T02:17:51+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T02:17:51+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T02:17:51+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T02:17:51+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T02:17:51+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T02:19:29+05:00"}
+{"fields.time":"2024-12-23T02:19:29.227061+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T02:19:29+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T02:19:29+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T02:19:29+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T02:19:29+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T02:19:29+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T02:19:29+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T02:19:29+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T02:19:29+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T02:19:29+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T02:19:29+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T02:26:09+05:00"}
+{"fields.time":"2024-12-23T02:26:09.94139+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T02:26:09+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T02:26:09+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T02:26:09+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T02:26:09+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T02:26:09+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T02:26:09+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T02:26:09+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T02:26:09+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T02:26:09+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T02:26:09+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T02:30:39+05:00"}
+{"fields.time":"2024-12-23T02:30:39.776161+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T02:30:39+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T02:30:39+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T02:30:39+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T02:30:39+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T02:30:39+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T02:30:39+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T02:30:39+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T02:30:39+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T02:30:39+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T02:30:39+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T19:46:14+05:00"}
+{"fields.time":"2024-12-23T19:46:14.223478+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T19:46:14+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T19:46:14+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T19:46:14+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T19:46:14+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T19:46:14+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T19:46:14+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T19:46:14+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T19:46:14+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T19:46:14+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T19:46:14+05:00"}
+{"author_name":"csacac","book_id":0,"book_name":"TestBook","level":"info","msg":"Book updated successfully","time":"2024-12-23T19:47:31+05:00"}
+{"book_id":4,"level":"info","msg":"Processing update book request","time":"2024-12-23T19:48:24+05:00"}
+{"author_name":"AA nuns","book_id":4,"book_name":"Good book1","level":"info","msg":"Book updated successfully","time":"2024-12-23T19:48:24+05:00"}
+{"book_id":"8","level":"info","msg":"Processing delete book request","time":"2024-12-23T19:48:45+05:00"}
+{"book_id":"8","level":"info","msg":"Book deleted successfully","time":"2024-12-23T19:48:45+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T20:01:37+05:00"}
+{"fields.time":"2024-12-23T20:01:37.325222+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T20:01:37+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T20:01:37+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T20:01:37+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T20:01:37+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T20:01:37+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T20:01:37+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T20:01:37+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T20:01:37+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T20:01:37+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T20:01:37+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T20:06:58+05:00"}
+{"fields.time":"2024-12-23T20:06:58.913513+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T20:06:58+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T20:06:58+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T20:06:58+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T20:06:58+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T20:06:58+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T20:06:58+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T20:06:58+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T20:06:58+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T20:06:58+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T20:06:58+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T20:07:46+05:00"}
+{"fields.time":"2024-12-23T20:07:46.772355+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T20:07:46+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T20:07:46+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T20:07:46+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T20:07:46+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T20:07:46+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T20:07:46+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T20:07:46+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T20:07:46+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T20:07:46+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T20:07:46+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T20:09:58+05:00"}
+{"fields.time":"2024-12-23T20:09:58.581021+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T20:09:58+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T20:09:58+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T20:09:58+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T20:09:58+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T20:09:58+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T20:09:58+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T20:09:58+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T20:09:58+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T20:09:58+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T20:09:58+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T20:54:35+05:00"}
+{"fields.time":"2024-12-23T20:54:35.627996+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T20:54:35+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T20:54:35+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T20:54:35+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T20:54:35+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T20:54:35+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T20:54:35+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T20:54:35+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T20:54:35+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T20:54:35+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T20:54:35+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T22:03:13+05:00"}
+{"fields.time":"2024-12-23T22:03:13.502492+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T22:03:13+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T22:03:13+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T22:03:13+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T22:03:13+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T22:03:13+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T22:03:13+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T22:03:13+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T22:03:13+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T22:03:13+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T22:03:13+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T22:04:03+05:00"}
+{"fields.time":"2024-12-23T22:04:03.647626+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T22:04:03+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T22:04:03+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T22:04:03+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T22:04:03+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T22:04:03+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T22:04:03+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T22:04:03+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T22:04:03+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T22:04:03+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T22:04:03+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T22:04:55+05:00"}
+{"fields.time":"2024-12-23T22:04:55.129669+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T22:04:55+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T22:04:55+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T22:04:55+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T22:04:55+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T22:04:55+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T22:04:55+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T22:04:55+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T22:04:55+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T22:04:55+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T22:04:55+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T22:05:54+05:00"}
+{"fields.time":"2024-12-23T22:05:54.077069+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T22:05:54+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T22:05:54+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T22:05:54+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T22:05:54+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T22:05:54+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T22:05:54+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T22:05:54+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T22:05:54+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T22:05:54+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T22:05:54+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T22:07:44+05:00"}
+{"fields.time":"2024-12-23T22:07:44.218619+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T22:07:44+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T22:07:44+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T22:07:44+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T22:07:44+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T22:07:44+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T22:07:44+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T22:07:44+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T22:07:44+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T22:07:44+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T22:07:44+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T22:11:45+05:00"}
+{"fields.time":"2024-12-23T22:11:45.677583+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T22:11:45+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T22:11:45+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T22:11:45+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T22:11:45+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T22:11:45+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T22:11:45+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T22:11:45+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T22:11:45+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T22:11:45+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T22:11:45+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T22:22:15+05:00"}
+{"fields.time":"2024-12-23T22:22:15.381991+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T22:22:15+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T22:22:15+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T22:22:15+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T22:22:15+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T22:22:15+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T22:22:15+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T22:22:15+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T22:22:15+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T22:22:15+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T22:22:15+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T22:27:38+05:00"}
+{"fields.time":"2024-12-23T22:27:38.205347+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T22:27:38+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T22:27:38+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T22:27:38+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T22:27:38+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T22:27:38+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T22:27:38+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T22:27:38+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T22:27:38+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T22:27:38+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T22:27:38+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T22:29:49+05:00"}
+{"fields.time":"2024-12-23T22:29:49.543792+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T22:29:49+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T22:29:49+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T22:29:49+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T22:29:49+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T22:29:49+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T22:29:49+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T22:29:49+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T22:29:49+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T22:29:49+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T22:29:49+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T22:30:42+05:00"}
+{"fields.time":"2024-12-23T22:30:42.505752+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T22:30:42+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T22:30:42+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T22:30:42+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T22:30:42+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T22:30:42+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T22:30:42+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T22:30:42+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T22:30:42+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T22:30:42+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T22:30:42+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T22:31:04+05:00"}
+{"fields.time":"2024-12-23T22:31:04.153877+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T22:31:04+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T22:31:04+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T22:31:04+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T22:31:04+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T22:31:04+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T22:31:04+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T22:31:04+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T22:31:04+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T22:31:04+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T22:31:04+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T22:31:24+05:00"}
+{"fields.time":"2024-12-23T22:31:24.325705+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T22:31:24+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T22:31:24+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T22:31:24+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T22:31:24+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T22:31:24+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T22:31:24+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T22:31:24+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T22:31:24+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T22:31:24+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T22:31:24+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T22:46:45+05:00"}
+{"fields.time":"2024-12-23T22:46:45.986758+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T22:46:45+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T22:46:46+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T22:46:46+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T22:46:46+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T22:46:46+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T22:46:46+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T22:46:46+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T22:46:46+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T22:46:46+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T22:46:46+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T22:59:30+05:00"}
+{"fields.time":"2024-12-23T22:59:30.785718+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T22:59:30+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T22:59:30+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T22:59:30+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T22:59:30+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T22:59:30+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T22:59:30+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T22:59:30+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T22:59:30+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T22:59:30+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T22:59:30+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T23:01:00+05:00"}
+{"fields.time":"2024-12-23T23:01:00.011666+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T23:01:00+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T23:01:00+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T23:01:00+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T23:01:00+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T23:01:00+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T23:01:00+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T23:01:00+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T23:01:00+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T23:01:00+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-23T23:05:14+05:00"}
+{"fields.time":"2024-12-23T23:05:14.917065+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-23T23:05:14+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-23T23:05:14+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-23T23:05:14+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-23T23:05:14+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-23T23:05:14+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-23T23:05:14+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-23T23:05:14+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-23T23:05:14+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-23T23:05:14+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-23T23:05:14+05:00"}
+{"book_id":"4","level":"info","msg":"Processing delete book request","time":"2024-12-23T23:05:20+05:00"}
+{"book_id":"4","level":"info","msg":"Book deleted successfully","time":"2024-12-23T23:05:20+05:00"}
+{"book_id":"7","level":"info","msg":"Processing delete book request","time":"2024-12-23T23:05:21+05:00"}
+{"book_id":"7","level":"info","msg":"Book deleted successfully","time":"2024-12-23T23:05:21+05:00"}
+{"author_name":"Emily Rivers","book_id":0,"book_name":"The Silent Observer","level":"info","msg":"Book updated successfully","time":"2024-12-23T23:10:03+05:00"}
+{"author_name":" Samuel Keats","book_id":0,"book_name":"Whispers in the Wind","level":"info","msg":"Book updated successfully","time":"2024-12-23T23:10:31+05:00"}
+{"author_name":"William Brooks","book_id":0,"book_name":"The Last Horizon","level":"info","msg":"Book updated successfully","time":"2024-12-23T23:10:52+05:00"}
+{"author_name":"Lily Thornton","book_id":0,"book_name":"Echoes of the Past","level":"info","msg":"Book updated successfully","time":"2024-12-23T23:11:17+05:00"}
+{"author_name":"Leo Parker","book_id":0,"book_name":"Chasing the Stars","level":"info","msg":"Book updated successfully","time":"2024-12-23T23:11:40+05:00"}
+{"author_name":"Sarah Langley","book_id":0,"book_name":"Beneath the Surface","level":"info","msg":"Book updated successfully","time":"2024-12-23T23:12:05+05:00"}
+{"author_name":"Mark Johnson","book_id":0,"book_name":"In the Shadow of the Mountains","level":"info","msg":"Book updated successfully","time":"2024-12-23T23:12:25+05:00"}
+{"author_name":"Abigail Moore","book_id":0,"book_name":"The Crimson Circle","level":"info","msg":"Book updated successfully","time":"2024-12-23T23:12:49+05:00"}
+{"author_name":"John Carter","book_id":0,"book_name":"A Breath of Tomorrow","level":"info","msg":"Book updated successfully","time":"2024-12-23T23:13:13+05:00"}
+{"author_name":"Clara Blackwood","book_id":0,"book_name":"The Painted Sky","level":"info","msg":"Book updated successfully","time":"2024-12-23T23:13:34+05:00"}
+{"author_name":"Diana Grey","book_id":0,"book_name":"Lost in the Echo","level":"info","msg":"Book updated successfully","time":"2024-12-23T23:13:53+05:00"}
+{"author_name":"Henry Thompson","book_id":0,"book_name":"The Keeper's Secret","level":"info","msg":"Book updated successfully","time":"2024-12-23T23:14:15+05:00"}
+{"author_name":"Natalie Stevens","book_id":0,"book_name":"Whispers of the Moon","level":"info","msg":"Book updated successfully","time":"2024-12-23T23:14:37+05:00"}
+{"author_name":"Alex Morgan","book_id":0,"book_name":"Threads of Fate","level":"info","msg":"Book updated successfully","time":"2024-12-23T23:14:56+05:00"}
+{"author_name":" Elizabeth Frost","book_id":0,"book_name":"The Frozen Heart","level":"info","msg":"Book updated successfully","time":"2024-12-23T23:15:15+05:00"}
+{"author_name":"Gabriel Winters","book_id":0,"book_name":"The Clockwork Angel","level":"info","msg":"Book updated successfully","time":"2024-12-23T23:15:33+05:00"}
+{"author_name":"Olivia Black","book_id":0,"book_name":"Shadows Over the City","level":"info","msg":"Book updated successfully","time":"2024-12-23T23:15:52+05:00"}
+{"author_name":"Roberto Sanchez","book_id":0,"book_name":"The Alchemist's Dream","level":"info","msg":"Book updated successfully","time":"2024-12-23T23:16:09+05:00"}
+{"author_name":"Christopher Ward","book_id":0,"book_name":"The Red Phoenix","level":"info","msg":"Book updated successfully","time":"2024-12-23T23:16:29+05:00"}
+{"author_name":"Thomas Reynolds","book_id":0,"book_name":"A Journey Through the Stars","level":"info","msg":"Book updated successfully","time":"2024-12-23T23:16:46+05:00"}
+{"author_name":"Jessica Greene","book_id":0,"book_name":"The Last Garden","level":"info","msg":"Book updated successfully","time":"2024-12-23T23:17:05+05:00"}
+{"author_name":"Victoria Hayes","book_id":0,"book_name":"The Secret Garden of the Moon","level":"info","msg":"Book updated successfully","time":"2024-12-23T23:17:23+05:00"}
+{"author_name":"Jack Harrison","book_id":0,"book_name":"The Iron Castle","level":"info","msg":"Book updated successfully","time":"2024-12-23T23:17:38+05:00"}
+{"author_name":"Emily Dawson","book_id":0,"book_name":"Dancing with Shadows","level":"info","msg":"Book updated successfully","time":"2024-12-23T23:17:53+05:00"}
+{"author_name":"Adam King","book_id":0,"book_name":"Through the Fire","level":"info","msg":"Book updated successfully","time":"2024-12-23T23:18:09+05:00"}
+{"author_name":"Sophie Rivers","book_id":0,"book_name":"The Ocean's Whisper","level":"info","msg":"Book updated successfully","time":"2024-12-23T23:18:27+05:00"}
+{"author_name":"Peter White","book_id":0,"book_name":"The Hunter's Moon","level":"info","msg":"Book updated successfully","time":"2024-12-23T23:18:43+05:00"}
+{"author_name":"Nora Hale","book_id":0,"book_name":"The Fallen Kingdom","level":"info","msg":"Book updated successfully","time":"2024-12-23T23:19:02+05:00"}
+{"author_name":"Isabelle Clarke","book_id":0,"book_name":"The Glass Forest","level":"info","msg":"Book updated successfully","time":"2024-12-23T23:19:22+05:00"}
+{"author_name":"David Ellis","book_id":0,"book_name":"Into the Abyss","level":"info","msg":"Book updated successfully","time":"2024-12-23T23:19:41+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-24T14:13:43+05:00"}
+{"fields.time":"2024-12-24T14:13:43.406344+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-24T14:13:43+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-24T14:13:43+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-24T14:13:43+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-24T14:13:43+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-24T14:13:43+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-24T14:13:43+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-24T14:13:43+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-24T14:13:43+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-24T14:13:43+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-24T14:13:43+05:00"}
+{"book_id":11,"level":"info","msg":"Processing update book request","time":"2024-12-24T14:22:01+05:00"}
+{"author_name":"William Brooks","book_id":11,"book_name":"The Last Horizon","level":"info","msg":"Book updated successfully","time":"2024-12-24T14:22:01+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-24T14:37:51+05:00"}
+{"fields.time":"2024-12-24T14:37:51.114768+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-24T14:37:51+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-24T14:37:51+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-24T14:37:51+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-24T14:37:51+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-24T14:37:51+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-24T14:37:51+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-24T14:37:51+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-24T14:37:51+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-24T14:37:51+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-24T14:37:51+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:54662","time":"2024-12-24T14:38:27+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:54662","time":"2024-12-24T14:38:54+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:54662","time":"2024-12-24T14:38:55+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-24T14:47:45+05:00"}
+{"fields.time":"2024-12-24T14:47:45.963254+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-24T14:47:45+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-24T14:47:45+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-24T14:47:45+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-24T14:47:45+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-24T14:47:45+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-24T14:47:45+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-24T14:47:45+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-24T14:47:45+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-24T14:47:45+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-24T14:47:46+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-24T15:11:17+05:00"}
+{"fields.time":"2024-12-24T15:11:17.765013+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-24T15:11:17+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-24T15:11:17+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-24T15:11:17+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-24T15:11:17+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-24T15:11:17+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-24T15:11:17+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-24T15:11:17+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-24T15:11:17+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-24T15:11:17+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-24T15:11:17+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-24T15:13:29+05:00"}
+{"fields.time":"2024-12-24T15:13:29.339989+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-24T15:13:29+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-24T15:13:29+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-24T15:13:29+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-24T15:13:29+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-24T15:13:29+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-24T15:13:29+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-24T15:13:29+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-24T15:13:29+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-24T15:13:29+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-24T15:13:29+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:55183","time":"2024-12-24T15:16:07+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:55359","time":"2024-12-24T15:25:52+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:55603","time":"2024-12-24T15:32:54+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:55601","time":"2024-12-24T15:32:54+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:55602","time":"2024-12-24T15:32:54+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:55605","time":"2024-12-24T15:32:54+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:55607","time":"2024-12-24T15:32:54+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:55610","time":"2024-12-24T15:32:54+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:55611","time":"2024-12-24T15:32:54+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:55618","time":"2024-12-24T15:32:54+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:55617","time":"2024-12-24T15:32:54+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:55619","time":"2024-12-24T15:32:54+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:55625","time":"2024-12-24T15:32:54+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:55626","time":"2024-12-24T15:32:54+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:55627","time":"2024-12-24T15:32:54+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:55624","time":"2024-12-24T15:32:54+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:55631","time":"2024-12-24T15:32:54+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:55630","time":"2024-12-24T15:32:54+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:55634","time":"2024-12-24T15:32:54+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:55635","time":"2024-12-24T15:32:54+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:55637","time":"2024-12-24T15:32:54+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:55640","time":"2024-12-24T15:32:54+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:55641","time":"2024-12-24T15:32:54+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:55667","time":"2024-12-24T15:33:43+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:55792","time":"2024-12-24T15:41:44+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:55794","time":"2024-12-24T15:41:44+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-25T13:52:10+05:00"}
+{"fields.time":"2024-12-25T13:52:10.250922+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-25T13:52:10+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-25T13:52:10+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-25T13:52:10+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-25T13:52:10+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-25T13:52:10+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-25T13:52:10+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-25T13:52:10+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-25T13:52:10+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-25T13:52:10+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-25T13:52:10+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:49318","time":"2024-12-25T13:52:27+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-25T14:09:03+05:00"}
+{"fields.time":"2024-12-25T14:09:03.267182+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-25T14:09:03+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-25T14:09:03+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-25T14:09:03+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-25T14:09:03+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-25T14:09:03+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-25T14:09:03+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-25T14:09:03+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-25T14:09:03+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-25T14:09:03+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-25T14:09:03+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-25T14:10:45+05:00"}
+{"fields.time":"2024-12-25T14:10:45.435459+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-25T14:10:45+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-25T14:10:45+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-25T14:10:45+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-25T14:10:45+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-25T14:10:45+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-25T14:10:45+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-25T14:10:45+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-25T14:10:45+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-25T14:10:45+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-25T14:10:45+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-25T14:12:30+05:00"}
+{"fields.time":"2024-12-25T14:12:30.447146+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-25T14:12:30+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-25T14:12:30+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-25T14:12:30+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-25T14:12:30+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-25T14:12:30+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-25T14:12:30+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-25T14:12:30+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-25T14:12:30+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-25T14:12:30+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-25T14:12:30+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-25T14:14:28+05:00"}
+{"fields.time":"2024-12-25T14:14:28.210186+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-25T14:14:28+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-25T14:14:28+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-25T14:14:28+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-25T14:14:28+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-25T14:14:28+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-25T14:14:28+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-25T14:14:28+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-25T14:14:28+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-25T14:14:28+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-25T14:14:28+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-25T14:15:08+05:00"}
+{"fields.time":"2024-12-25T14:15:08.804168+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-25T14:15:08+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-25T14:15:08+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-25T14:15:08+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-25T14:15:08+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-25T14:15:08+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-25T14:15:08+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-25T14:15:08+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-25T14:15:08+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-25T14:15:08+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-25T14:15:08+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:49472","time":"2024-12-25T14:16:12+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:49463","time":"2024-12-25T14:16:12+05:00"}
+{"level":"info","msg":"Starting application...","time":"2024-12-26T20:44:44+05:00"}
+{"fields.time":"2024-12-26T20:44:44.176039+05:00","level":"info","msg":"Connecting to the database...","time":"2024-12-26T20:44:44+05:00"}
+{"level":"info","msg":"Successfully connected to the database","time":"2024-12-26T20:44:44+05:00"}
+{"level":"info","msg":"Creating tables if they don't exist...","time":"2024-12-26T20:44:44+05:00"}
+{"level":"info","msg":"Tables created or already exist","time":"2024-12-26T20:44:44+05:00"}
+{"level":"info","msg":"Initializing form decoder...","time":"2024-12-26T20:44:44+05:00"}
+{"level":"info","msg":"Form decoder initialized","time":"2024-12-26T20:44:44+05:00"}
+{"level":"info","msg":"Setting up session store...","time":"2024-12-26T20:44:44+05:00"}
+{"level":"info","msg":"Session store set up","time":"2024-12-26T20:44:44+05:00"}
+{"level":"info","msg":"Initializing handler...","time":"2024-12-26T20:44:44+05:00"}
+{"address":"127.0.0.1:3000","level":"info","msg":"Server starting...","time":"2024-12-26T20:44:44+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:49894","time":"2024-12-26T20:44:56+05:00"}
+{"book_id":9,"level":"info","msg":"Processing update book request","time":"2024-12-26T20:45:00+05:00"}
+{"author_name":"Emily Riverss","book_id":9,"book_name":"The Silent Observer","level":"info","msg":"Book updated successfully","time":"2024-12-26T20:45:00+05:00"}
+{"level":"warning","msg":"Rate limit exceeded for request","remote_ip":"127.0.0.1:49897","time":"2024-12-26T20:45:00+05:00"}

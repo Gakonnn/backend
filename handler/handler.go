@@ -1,7 +1,7 @@
 package handler
 
 import (
-	
+	"github.com/sirupsen/logrus"
 	"log"
 	"net/http"
 	"text/template"
@@ -16,24 +16,32 @@ const sessionName = "library-session"
 
 type Handler struct {
 	templates *template.Template
-	db 	*sqlx.DB
-	decoder *schema.Decoder
-	sess *sessions.CookieStore
+	db        *sqlx.DB
+	decoder   *schema.Decoder
+	sess      *sessions.CookieStore
+	Log       *logrus.Logger // Добавляем логгер
+
 }
 
-func New(db *sqlx.DB, decoder *schema.Decoder, sess *sessions.CookieStore) *mux.Router {
-	h:= &Handler{
-		db: db,
+func New(db *sqlx.DB, decoder *schema.Decoder, sess *sessions.CookieStore, log *logrus.Logger) *mux.Router {
+	h := &Handler{
+		db:      db,
 		decoder: decoder,
-		sess: sess,
+		sess:    sess,
+		Log:     log, // Присваиваем логгер
 	}
 
 	h.parseTemplate()
 
-	r:= mux.NewRouter()
+	r := mux.NewRouter()
 	r.HandleFunc("/", h.home)
 	r.HandleFunc("/logout", h.logout)
 	r.HandleFunc("/resetpassword", h.forgotPassword)
+
+	r.HandleFunc("/profile", h.viewProfile)
+	r.HandleFunc("/profile/update", h.updateProfile)
+	r.HandleFunc("/support", h.viewSupport)
+	r.HandleFunc("/support/send-message", h.sendSupportMessage)
 
 	l := r.NewRoute().Subrouter()
 	l.HandleFunc("/registration", h.signUp).Methods("GET")
@@ -58,12 +66,11 @@ func New(db *sqlx.DB, decoder *schema.Decoder, sess *sessions.CookieStore) *mux.
 	s.HandleFunc("/book/{id:[0-9]+}/update", h.updateBook)
 	s.HandleFunc("/book/{id:[0-9]+}/delete", h.deleteBook)
 	s.HandleFunc("/book/search", h.searchBook)
-	s.HandleFunc("/bookings/{id:[0-9]+}/create", h.createBookings)
-	s.HandleFunc("/bookings/store", h.storeBookings)
-	s.HandleFunc("/mybookings", h.myBookings)
+	r.HandleFunc("/favorites", h.viewFavorites).Methods("GET")
+	r.HandleFunc("/favorites/add/{id:[0-9]+}", h.addFavorite).Methods("GET")
+	r.HandleFunc("/favorites/remove/{id:[0-9]+}", h.removeFavorite).Methods("GET")
 	s.HandleFunc("/book/{id:[0-9]+}/bookdetails", h.bookDetails)
 	s.PathPrefix("/asset/").Handler(http.StripPrefix("/asset/", http.FileServer(http.Dir("./"))))
-	
 
 	r.NotFoundHandler = http.HandlerFunc(func(rw http.ResponseWriter, r *http.Request) {
 		if err := h.templates.ExecuteTemplate(rw, "404.html", nil); err != nil {
@@ -91,7 +98,9 @@ func (h *Handler) parseTemplate() {
 		"templates/signup.html",
 		"templates/login.html",
 		"templates/reset-password.html",
-		))
+		"templates/profile.html",
+		"templates/support.html",
+	))
 }
 
 func (h *Handler) authMiddleware(next http.Handler) http.Handler {
@@ -106,7 +115,7 @@ func (h *Handler) authMiddleware(next http.Handler) http.Handler {
 		} else {
 			http.Redirect(rw, r, "/login", http.StatusTemporaryRedirect)
 		}
-		
+
 	})
 }
 

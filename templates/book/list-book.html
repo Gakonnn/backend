@@ -8,6 +8,7 @@
     <!-- Bootstrap CSS -->
     <!-- CSS only -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+
 </head>
 <body>
     <h3 align="center">Books Lists</h3>
@@ -18,7 +19,11 @@
                     <th scope="col"><a href="/" class="btn btn-secondary">Home</a></th>
                     <th scope="col"><a href="/book/create" class="btn btn-primary">Create Book</a></th>
                     <th scope="col"><a href="/category/list" class="btn btn-primary">Category List</a></th>
-                    <th scope="col"><a href="/mybookings" class="btn btn-info">My Bookings</a></th>
+                    <th scope="col"><a href="/favorites" class="btn btn-info">My Favorite Books</a></th>
+                    <th scope="col"><a href="/profile" class="btn btn-info">My Profile</a></th>
+                    <th scope="col"><a href="/support" class="btn btn-info">Support</a></th>
+
+
                 </tr>
             </thead>
         </table>
@@ -35,6 +40,15 @@
                     </select>
                 </div>
             </div>
+            <div class="col-12 col-md-10 col-lg-4">
+                <div>
+                    <th>ID <a href="/book/list?sort=id&order=asc">▲</a> <a href="/book/list?sort=id&order=desc">▼</a></th>
+                    <th>Book Name <a href="/book/list?sort=book_name&order=asc">▲</a> <a href="/book/list?sort=book_name&order=desc">▼</a></th>
+                    <th>Author Name <a href="/book/list?sort=author_name&order=asc">▲</a> <a href="/book/list?sort=author_name&order=desc">▼</a></th>
+
+                </div>
+            </div>
+
             <div class="col-12 col-md-10 col-lg-8">
                 <form action="/book/search">
                     <div class="align-items-center">
@@ -96,7 +110,7 @@
                             <a href="/book/{{.ID}}/edit" class="btn btn-info">Edit</a>
                             <a href="/book/{{.ID}}/delete" class="btn btn-danger">Delete</a>
                             {{if .Status}}
-                                <a href="/bookings/{{.ID}}/create" class="btn btn-dark">Book</a>
+                                <a href="/favorites/add/{{.ID}}" class="btn btn-dark">add to favorites</a>
                             {{else}}
                                 <a class="btn btn-warning">Booked</a>
                             {{end}}

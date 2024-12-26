@@ -6,7 +6,7 @@ import (
 )
 
 type Auth struct {
-	Auth	interface{}
+	Auth interface{}
 }
 
 func (h *Handler) home(rw http.ResponseWriter, r *http.Request) {
@@ -18,8 +18,8 @@ func (h *Handler) home(rw http.ResponseWriter, r *http.Request) {
 	list := Auth{
 		Auth: auth,
 	}
-	if err:= h.templates.ExecuteTemplate(rw, "home.html", list); err != nil {
-	http.Error(rw, err.Error(), http.StatusInternalServerError)
-	return
+	if err := h.templates.ExecuteTemplate(rw, "home.html", list); err != nil {
+		http.Error(rw, err.Error(), http.StatusInternalServerError)
+		return
 	}
 }

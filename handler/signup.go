@@ -13,33 +13,33 @@ import (
 )
 
 type SignUp struct {
-	ID	int `db:"id"`
-	FirstName string `db:"first_name"`
-	LastName string `db:"last_name"`
-	Email string `db:"email"`
-	Password string `db:"password"`
-	ConfirmPassword string 
-	IsVerified bool `db:"is_verified"`
+	ID              int    `db:"id"`
+	FirstName       string `db:"first_name"`
+	LastName        string `db:"last_name"`
+	Email           string `db:"email"`
+	Password        string `db:"password"`
+	ConfirmPassword string
+	IsVerified      bool `db:"is_verified"`
 }
 
 type SignUpForm struct {
-	SingUp	SignUp
-	Errors	map[string]string
+	SingUp SignUp
+	Errors map[string]string
 }
 
 func (s *SignUp) Validate() error {
 	return validation.ValidateStruct(s,
-	validation.Field(&s.FirstName,
-		validation.Required.Error("This field is must required")),
-	validation.Field(&s.LastName,
-		validation.Required.Error("This field is must required")),
-	validation.Field(&s.Email,
-		validation.Required.Error("This field is must required")),
-	validation.Field(&s.Password,
-		validation.Required.Error("This field is must required")),
-	validation.Field(&s.ConfirmPassword,
-		validation.Required.Error("This field is must required")))
-} 
+		validation.Field(&s.FirstName,
+			validation.Required.Error("This field is must required")),
+		validation.Field(&s.LastName,
+			validation.Required.Error("This field is must required")),
+		validation.Field(&s.Email,
+			validation.Required.Error("This field is must required")),
+		validation.Field(&s.Password,
+			validation.Required.Error("This field is must required")),
+		validation.Field(&s.ConfirmPassword,
+			validation.Required.Error("This field is must required")))
+}
 
 func (h *Handler) signUp(rw http.ResponseWriter, r *http.Request) {
 	vErrs := map[string]string{}
@@ -62,11 +62,11 @@ func (h *Handler) signUpCheck(rw http.ResponseWriter, r *http.Request) {
 	if signup.Password != signup.ConfirmPassword {
 		formData := SignUpForm{
 			SingUp: signup,
-			Errors: map[string]string{"Password" : "The password does not match with the confirm password"},
+			Errors: map[string]string{"Password": "The password does not match with the confirm password"},
 		}
-		if err:= h.templates.ExecuteTemplate(rw, "signup.html", formData); err != nil {
-		http.Error(rw, err.Error(), http.StatusInternalServerError)
-		return
+		if err := h.templates.ExecuteTemplate(rw, "signup.html", formData); err != nil {
+			http.Error(rw, err.Error(), http.StatusInternalServerError)
+			return
 		}
 	}
 
@@ -94,8 +94,8 @@ func (h *Handler) signUpCheck(rw http.ResponseWriter, r *http.Request) {
 		return
 	}
 	// registration verification mail
-	from := ""
-	password := ""
+	from := "e_book_aitu@zohomail.com"
+	password := "gakon2006"
 
 	// user mail address
 	to := []string{
@@ -103,7 +103,7 @@ func (h *Handler) signUpCheck(rw http.ResponseWriter, r *http.Request) {
 	}
 
 	// smtp server configuration
-	smtpHost := "smtp.gmail.com"
+	smtpHost := "smtp.zoho.com"
 	smtpPort := "587"
 
 	// Authentication
@@ -122,11 +122,11 @@ func (h *Handler) signUpCheck(rw http.ResponseWriter, r *http.Request) {
 	body.Write([]byte(fmt.Sprintf("Subject: %s\n%s\n\n", "Verification Mail", mimeHeaders)))
 
 	err = t.Execute(&body, struct {
-	  Name    string
-	  Link string
+		Name string
+		Link string
 	}{
-	  Name:    signup.FirstName,
-	  Link:		"Verified",
+		Name: signup.FirstName,
+		Link: "Verified",
 	})
 
 	if err != nil {
@@ -135,11 +135,11 @@ func (h *Handler) signUpCheck(rw http.ResponseWriter, r *http.Request) {
 
 	//  Sending email.
 	if err := smtp.SendMail(smtpHost+":"+smtpPort, auth, from, to, body.Bytes()); err != nil {
-	  fmt.Println(err)
-	  return
+		fmt.Println(err)
+		return
 	}
 	fmt.Println("Email Sent!")
-	
+
 	http.Redirect(rw, r, "/login", http.StatusTemporaryRedirect)
 }
 
@@ -148,7 +148,7 @@ func (h *Handler) loadSignUpForm(rw http.ResponseWriter, singup SignUp, errs map
 		SingUp: singup,
 		Errors: errs,
 	}
-	if err:= h.templates.ExecuteTemplate(rw, "signup.html", data); err != nil {
+	if err := h.templates.ExecuteTemplate(rw, "signup.html", data); err != nil {
 		http.Error(rw, err.Error(), http.StatusInternalServerError)
 		return
 	}
