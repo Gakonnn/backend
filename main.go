@@ -1,12 +1,11 @@
 package main
 
 import (
+	"library/handler"
 	"log"
 	"net/http"
 	"os"
 	"time"
-
-	"library/handler"
 
 	"github.com/gorilla/schema"
 	"github.com/gorilla/sessions"
@@ -16,7 +15,7 @@ import (
 	"golang.org/x/time/rate"
 )
 
-var limiter = rate.NewLimiter(1, 3)
+var limiter = rate.NewLimiter(1, 3000)
 
 func main() {
 	logFile, err := os.OpenFile("server.log", os.O_CREATE|os.O_APPEND|os.O_WRONLY, 0666)

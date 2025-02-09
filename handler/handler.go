@@ -49,6 +49,7 @@ func New(db *sqlx.DB, decoder *schema.Decoder, sess *sessions.CookieStore, log *
 	l.HandleFunc("/login", h.login).Methods("GET")
 	l.HandleFunc("/login", h.loginCheck).Methods("POST")
 	l.Use(h.loginMiddleware)
+	l.HandleFunc("/verify-email", h.verifyEmail)
 
 	s := r.NewRoute().Subrouter()
 	s.Use(h.authMiddleware)
